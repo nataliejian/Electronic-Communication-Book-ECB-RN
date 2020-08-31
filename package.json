@@ -1,0 +1,59 @@
+{
+  "name": "ECB",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "ios": "react-native run-ios",
+    "android": "react-native run-android",
+    "server": "nodemon server"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.55",
+    "apsl-react-native-button": "^3.1.1",
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
+    "mongojs": "^2.6.0",
+    "nodemon": "^1.18.8",
+    "pretty-format": "^23.6.0",
+    "react": "16.3.1",
+    "react-easy-grid": "^1.0.2",
+    "react-native": "0.55.4",
+    "react-native-action-button": "^2.8.4",
+    "react-native-calendars": "^1.21.0",
+    "react-native-circular-progress": "^1.0.1",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-easy-grid": "^0.2.0",
+    "react-native-elements": "^0.19.1",
+    "react-native-fast-image": "^5.0.11",
+    "react-native-fs": "^2.12.0",
+    "react-native-gifted-chat": "^0.5.0",
+    "react-native-image-picker": "^0.27.2",
+    "react-native-image-resizer": "^1.0.0",
+    "react-native-navigator": "^0.4.2",
+    "react-native-photo-upload": "^1.3.0",
+    "react-native-popup-dialog": "^0.15.1",
+    "react-native-svg": "^8.0.8",
+    "react-native-svg-animations": "^0.1.6",
+    "react-native-swipeout": "^2.3.6",
+    "react-native-ui-lib": "^3.3.263",
+    "react-native-vector-icons": "^6.0.2",
+    "react-navigation": "^2.6.2",
+    "react-navigation-backhandler": "^1.2.0",
+    "react-simple-line-icons": "^1.0.8",
+    "rn-fetch-blob": "^0.10.13",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0",
+    "yarn": "^1.10.1"
+  },
+  "devDependencies": {
+    "babel-jest": "23.2.0",
+    "babel-preset-react-native": "^4.0.1",
+    "jest": "23.3.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
