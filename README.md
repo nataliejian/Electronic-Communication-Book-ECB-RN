@@ -4,11 +4,11 @@
 ![image](https://github.com/b3o3m303/Electronic-Communication-Book-ECB-RN/blob/master/fig/0.jpg)
 
 ##### 以ReactNative搭配資料庫針對中小學生撰寫一套電子聯絡簿Application，透過APP少去傳遞中可能遭竄改或是傳遞不到的問題。
-###### 將使用者分為三個身分，老師，學生以及家長 
+##### 將使用者分為三個身分，老師，學生以及家長 
 
 ![image](https://github.com/b3o3m303/Electronic-Communication-Book-ECB-RN/blob/master/fig/12.jpg)
 
-###### 三方分別的功能
+##### 三方分別的功能
 
 ![image](https://github.com/b3o3m303/Electronic-Communication-Book-ECB-RN/blob/master/fig/17.jpg)
 
