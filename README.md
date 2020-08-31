@@ -18,8 +18,26 @@
 <font size=5>程式由老師做為出發主軸，因此需先註冊老師身分</font>
 
 ![image](https://github.com/b3o3m303/Electronic-Communication-Book-ECB-RN/blob/master/fig/4.jpg)
+
+<font size=5>三方的主畫面</font>
+
+![image](https://github.com/b3o3m303/Electronic-Communication-Book-ECB-RN/blob/master/fig/18.jpg)
+
 <font size=5>由老師帶入學生</font>
+
 ![image](https://github.com/b3o3m303/Electronic-Communication-Book-ECB-RN/blob/master/fig/5.jpg)
+
+<font size=5>透過學生帶入家長資料</font>
+
+![image](https://github.com/b3o3m303/Electronic-Communication-Book-ECB-RN/blob/master/fig/19.jpg)
+
+![image](https://github.com/b3o3m303/Electronic-Communication-Book-ECB-RN/blob/master/fig/6.jpg)
+
+<font size=5>個人資訊頁面，以老師為例</font>
+
+![image](https://github.com/b3o3m303/Electronic-Communication-Book-ECB-RN/blob/master/fig/10.jpg)
+
+
 
 ___
 所使用的Database與PHP
